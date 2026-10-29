@@ -1,5 +1,5 @@
 // Set this to your deployed Render API URL after deployment.
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://sudoku-api-3xf3.onrender.com";
 const boardEl = document.getElementById("board");
 const timerEl = document.getElementById("timer");
 const messageEl = document.getElementById("message");
